@@ -1,23 +1,22 @@
 {
-  "name": "FindAFriend",
+  "name": "friendfinder",
   "version": "1.0.0",
   "description": "",
-  "main": "apiRoutes.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nathaniel876/FindAFriend.git"
+    "url": "git+https://github.com/Nathaniel876/FriendFinder.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nathaniel876/FindAFriend/issues"
+    "url": "https://github.com/Nathaniel876/FriendFinder/issues"
   },
-  "homepage": "https://github.com/Nathaniel876/FindAFriend#readme",
+  "homepage": "https://github.com/Nathaniel876/FriendFinder#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
